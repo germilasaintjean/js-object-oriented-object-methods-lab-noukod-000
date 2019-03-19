@@ -7,3 +7,7 @@ function BoardMember(name, homeState, training)
     console.log(`Hi, my name is ${name}. I am from ${homeState}, and  I was training in ${training}.`)
   }
 }
+
+function(){
+  console.log("No, Imust disagree")
+}
