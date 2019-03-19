@@ -8,6 +8,7 @@ function BoardMember(name, homeState, training)
   }
 }
 
-function(){
+function()
+{
   console.log("No, Imust disagree")
 }
