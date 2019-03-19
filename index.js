@@ -8,7 +8,7 @@ function BoardMember(name, homeState, training)
   }
 }
 
-function()
+function Velo()
 {
   console.log("No, Imust disagree")
 }
