@@ -4,7 +4,7 @@ function BoardMember(name, homeState, training)
   this.homeState = homeState
   this.training = training
   this.sayHi = function(){
-    console.log(`Hi, my name is ${name}. I am from ${homeState}, and  I was training in ${training}.`)
+    console.log(`Hi, my name is ${this.name}. I am from ${this.homeState}, and  I was training in ${this.training}.`)
   }
 }
 
